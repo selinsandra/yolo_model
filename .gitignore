@@ -1,0 +1,66 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg-info/
+dist/
+build/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# IDE
+.idea/
+*.swp
+*.swo
+
+# YOLO / ML
+*.pt
+*.pth
+*.weights
+*.onnx
+*.engine
+runs/
+datasets/
+data/
+outputs/
+inference/outputs/
+weights/
+
+# Data
+*.zip
+*.tar
+*.gz
+*.rar
+*.csv
+*.json
+
+# Logs
+logs/
+*.log
+
+# Media
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.mp3
+*.wav
+
+# OS
+.DS_Store
+Thumbs.db
+inference/
+models/

@@ -1,0 +1,12 @@
+model_name: yolov8n.pt
+device: auto        # auto | cpu | cuda
+img_size: 640
+
+confidence_threshold: 0.5
+iou_threshold: 0.45
+
+classes:
+  - person
+  - car
+  - bus
+  - truck

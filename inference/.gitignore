@@ -1,0 +1,9 @@
+# Ignore outputs and large files
+outputs/
+*.mp4
+*.avi
+*.jpg
+*.png
+*.pt
+*.pth
+__pycache__/
